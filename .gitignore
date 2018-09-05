@@ -2,7 +2,6 @@
 RemoteSystemsTempFIles
 Servers
 /.recommenders/
-
 /DreamLibrary/.settings
 /DreamLibrary/target
 /petclinic-a8
@@ -10,6 +9,5 @@ Servers
 /test
 *.class
 *.txt
-*.md
 *.bat
 
